@@ -1,7 +1,7 @@
 # 🧠 DSA Journey
 
 Welcome to my personal journey through Data Structures and Algorithms (DSA).  
-This repository contains solutions to problems I’ve solved from platforms like LeetCode, Codeforces, and more.
+This repository contains solutions to problems I’ve solved from platforms like LeetCode,CodeChef, GFG, Codeforces, and more.
 
 ## 🛠️ Languages Used
 - Java (Primary)
@@ -33,4 +33,11 @@ This repository contains solutions to problems I’ve solved from platforms like
 
 ---
 
+To clone this repository and start working locally:
+
+```bash
+git clone https://github.com/Dhruv1617/DSA-Journey.git
+cd DSA-Journey
+```
+---
 > 🌟 Feel free to star this repo or fork it if you'd like to follow along or contribute!
