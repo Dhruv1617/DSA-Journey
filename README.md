@@ -18,6 +18,8 @@ This repository contains solutions to problems I’ve solved from platforms like
 - Greedy
 - Graphs
 - Trees
+- Two-Pointers
+
 
 ## 🌱 Why this repo?
 - Practice for coding interviews
