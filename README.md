@@ -12,6 +12,7 @@ This repository contains solutions to problems I’ve solved from platforms like
 ## 📌 Topics Covered
 - Arrays
 - Recursion
+- Linked List
 - Dynamic Programming
 - Backtracking
 - Sliding Window
