@@ -11,6 +11,7 @@ This repository contains solutions to problems I’ve solved from platforms like
 
 ## 📌 Topics Covered
 - Arrays
+- Strings
 - Recursion
 - Linked List
 - Dynamic Programming
