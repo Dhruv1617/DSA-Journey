@@ -11,6 +11,7 @@ This repository contains solutions to problems I’ve solved from platforms like
 
 ## 📌 Topics Covered
 - Arrays
+- Binary-Search
 - Strings
 - Recursion
 - Linked List
